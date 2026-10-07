@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2. VendingMachine" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3. ParkingLot" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Lru" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. RateLimiter" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

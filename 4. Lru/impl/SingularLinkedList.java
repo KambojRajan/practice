@@ -1,3 +1,5 @@
+package impl;
+
 public class SingularLinkedList {
     Node head;
     Node tail;
